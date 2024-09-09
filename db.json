@@ -1,0 +1,185 @@
+{
+  "users": [
+    {
+      "userId": 1,
+      "login": "sarik.j2445@gmail.com",
+      "password": "qwerty1234",
+      "fullName": "Sardor Djurakulov",
+      "wallets": [
+        {
+          "title": "bitcoin",
+          "id": 1,
+          "balance": "23",
+          "transactions": [
+            {
+              "type": "SEND",
+              "id": 1,
+              "from": "me",
+              "to": "74EKRJMXkhKDR5dj34578fgirwE22sfg",
+              "amount": 10,
+              "date": "11"
+            },
+            {
+              "type": "GET",
+              "id": 2,
+              "from": "74EKRJMXkhKDR5dj34578fgirwE22sfg",
+              "to": "me",
+              "amount": 13,
+              "date": "20"
+            },
+            {
+              "type": "SEND",
+              "id": 1,
+              "from": "me",
+              "to": "74EKRJMXkhKDR5dj34578fgirwE22sfg",
+              "amount": 23,
+              "date": "30"
+            },
+            {
+              "type": "SEND",
+              "id": 1,
+              "from": "me",
+              "to": "74EKRJMXkhKDR5dj34578fgirwE22sfg",
+              "amount": 63,
+              "date": "40"
+            }
+          ]
+        },
+        {
+          "title": "ethereum",
+          "id": 2,
+          "balance": "53",
+          "transactions": [
+            {
+              "type": "SEND",
+              "id": 1,
+              "from": "me",
+              "to": "74EKRJMXkhKDR5dj34578fgirwE22sfg",
+              "amount": 30,
+              "date": "7"
+            },
+            {
+              "type": "GET",
+              "id": 2,
+              "from": "74EKRJMXkhKDR5dj34578fgirwE22sfg",
+              "to": "me",
+              "amount": 50,
+              "date": "06"
+            },
+            {
+              "type": "SEND",
+              "id": 1,
+              "from": "me",
+              "to": "74EKRJMXkhKDR5dj34578fgirwE22sfg",
+              "amount": 60,
+              "date": "05"
+            },
+            {
+              "type": "SEND",
+              "id": 1,
+              "from": "me",
+              "to": "74EKRJMXkhKDR5dj34578fgirwE22sfg",
+              "amount": 70,
+              "date": "04"
+            }
+          ]
+        },
+        {
+          "title": "ton coin",
+          "id": 3,
+          "balance": "64",
+          "transactions": [
+            {
+              "type": "SEND",
+              "id": 1,
+              "from": "me",
+              "to": "74EKRJMXkhKDR5dj34578fgirwE22sfg",
+              "amount": 80,
+              "date": "01"
+            },
+            {
+              "type": "GET",
+              "id": 2,
+              "from": "74EKRJMXkhKDR5dj34578fgirwE22sfg",
+              "to": "me",
+              "amount": 90,
+              "date": "02"
+            },
+            {
+              "type": "SEND",
+              "id": 1,
+              "from": "me",
+              "to": "74EKRJMXkhKDR5dj34578fgirwE22sfg",
+              "amount": 80,
+              "date": "03"
+            },
+            {
+              "type": "SEND",
+              "id": 1,
+              "from": "me",
+              "to": "74EKRJMXkhKDR5dj34578fgirwE22sfg",
+              "amount": 90,
+              "date": "04"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 0.09733690494504277,
+      "login": "asdasdas@safddas.omfd",
+      "password": "asdasdasda",
+      "fullName": "qwert",
+      "wallets": [
+        {
+          "title": "bitcoin",
+          "id": 0.8213391160040608,
+          "balance": "0",
+          "transactions": []
+        }
+      ]
+    },
+    {
+      "id": 0.35598535162338685,
+      "login": "asdasdas@safddas.omfd",
+      "password": "asdasdasda",
+      "fullName": "qwert",
+      "wallets": [
+        {
+          "title": "bitcoin",
+          "id": 0.36829028612304104,
+          "balance": "0",
+          "transactions": []
+        }
+      ]
+    },
+    {
+      "id": 0.6126619101250206,
+      "login": "asdasdas@safddas.omfd",
+      "password": "asdasdasda",
+      "fullName": "qwert",
+      "wallets": [
+        {
+          "title": "bitcoin",
+          "id": 0.4018166830105139,
+          "balance": "0",
+          "transactions": []
+        }
+      ]
+    },
+    {
+      "userId": 0.13622830474510872,
+      "login": "asdasdas@safddas.omfd",
+      "password": "asdasdasda",
+      "fullName": "qwert",
+      "wallets": [
+        {
+          "title": "bitcoin",
+          "id": 0.6614271315370754,
+          "balance": "0",
+          "transactions": []
+        }
+      ]
+    }
+  ]
+}
